@@ -17,3 +17,10 @@ On the Web3 side, the contract is written in Solidity and compiled deployed usin
 In this app Simply deployed smart contract using goerli testnet
 
 For interaction with frontend Web3.js library is used
+## What I Learned
+
+- How to use truffle for deployment
+
+- How to use Web3.js library for interaction with Frontend
+
+
